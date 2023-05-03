@@ -20,7 +20,7 @@ I graduated from both UCLA and Stanford University in engineering and have launc
 Follow me on LinkedIn at [Jimmy Wong on LinkedIn](https://www.linkedin.com/in/jimmywong/)
 
 
-<!--
+<!-- 
 **jimwongcode/jimwongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
