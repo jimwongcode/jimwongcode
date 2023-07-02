@@ -21,7 +21,7 @@ Follow me on LinkedIn at [Jimmy Wong on LinkedIn](https://www.linkedin.com/in/ji
 
 
 <!-- 
-**jimwongcode/jimwongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jimwongcode/jimwongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
