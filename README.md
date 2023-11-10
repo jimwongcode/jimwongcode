@@ -17,7 +17,7 @@ Learn more about [Jimmy Wong at AI Jimmy](https://www.aijimmy.com/about/)
 
 - 🔭 I’m currently working on applying AI/ML technologies to help people be more successful in their business and careers.
 - 💬 *Ask me about:* Data Science, AI, ML, web development, entrepreneurship, product development and marketing, and careers.
-- 📫 *How to reach me:* You can contact me via my [AI Jimmmy](https://www.aijimmy.com/) website or message me on LinkedIn
+- 📫 *How to reach me:* You can contact me via my [AI Jimmy](https://www.aijimmy.com/) website or message me on LinkedIn
 
 Follow me on LinkedIn at [Jimmy Wong on LinkedIn](https://www.linkedin.com/in/jimmywong/)
 
