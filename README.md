@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a data science and analytics leader with 15+ years of hands-on and managerial experience delivering customer growth to businesses through the power of data with experience in fast-moving high-tech and internet industries, with electronics, SaaS, and media monetization businesses for both B2C and B2B market segments including enterprise and SMB clients.
+I am a data science leader and business coach with 27+ years of experience delivering customer growth to businesses through the power of data with experience in fast-moving high-tech and internet industries, with electronics, SaaS, and media monetization businesses for both B2C and B2B market segments including enterprise and SMB clients.
 
 I graduated from both UCLA and Stanford University in engineering and have launched several startup businesses. I have been involved with the following organizations:
 
@@ -11,11 +11,13 @@ I graduated from both UCLA and Stanford University in engineering and have launc
 - Speaker and award recipient from the Digital Analytics Association (DAA)
 - Toastmasters
 
+Learn more about [Jimmy Wong at AI Jimmy](https://www.aijimmy.com/about/)
+
 ### Contact me
 
 - 🔭 I’m currently working on applying AI/ML technologies to help people be more successful in their business and careers.
 - 💬 *Ask me about:* Data Science, AI, ML, web development, entrepreneurship, product development and marketing, and careers.
-- 📫 *How to reach me:* You can message me on LinkedIn. I also hold open office hours for anyone in the world--find my scheduling link on my LinkedIn profile.
+- 📫 *How to reach me:* You can contact me via my [AI Jimmmy](https://www.aijimmy.com/) website or message me on LinkedIn
 
 Follow me on LinkedIn at [Jimmy Wong on LinkedIn](https://www.linkedin.com/in/jimmywong/)
 
