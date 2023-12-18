@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a data science leader and business coach with 27+ years of experience delivering customer growth to businesses through the power of data with experience in fast-moving high-tech and internet industries, with electronics, SaaS, and media monetization businesses for both B2C and B2B market segments including enterprise and SMB clients.
+I am a data science leader and business coach with 27+ years of experience delivering customer growth to businesses through the power of data with experience in fast-moving high-tech and internet industries, with electronics, SaaS, and media monetization businesses for both B2C and B2B market segments including enterprise and SMB clients. I led LinkedIn data science teams for about 12 years.
 
 I graduated from both UCLA and Stanford University in engineering and have launched several startup businesses. I have been involved with the following organizations:
 
